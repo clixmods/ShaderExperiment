@@ -15,7 +15,7 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 3000
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
@@ -103,31 +103,31 @@ Material:
     - _Distance: 0.4
     - _DstBlend: 0
     - _EnvironmentReflections: 1
-    - _FoamAmount: 0.73
-    - _FoamCutoff: 3.4
-    - _FoamSpeed: 0.05
+    - _FoamAmount: 0.45
+    - _FoamCutoff: 2.29
+    - _FoamSpeed: -0.07
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metal: 0
     - _Metallic: 0
-    - _NormalIntensity: 0.28
+    - _NormalIntensity: 0.18
     - _NormalRefractionA: 1
     - _NormalRefractionB: 1
     - _OcclusionStrength: 1
-    - _Opacity: 1
+    - _Opacity: 0.954
     - _Parallax: 0.005
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _ReflectionIntensity: 1
-    - _RefractionStrenght: 0.86
-    - _SmoothScale: 17.45
-    - _Smoothness: 0.884
+    - _ReflectionIntensity: 0.56
+    - _RefractionStrenght: 4.81
+    - _SmoothScale: 1.9
+    - _Smoothness: 0.873
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _Speed: 0.05
-    - _SpeedRefraction: -0.3
+    - _Speed: 35.7
+    - _SpeedRefraction: 0.4
     - _SpeedRefractionAlt: 0.05
     - _SrcBlend: 1
     - _Surface: 0
@@ -140,7 +140,7 @@ Material:
     - _DeepColor: {r: 0.021493427, g: 0.529476, b: 0.6509434, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 1}
-    - _FoamScale: {r: 15, g: 15, b: 0, a: 0}
+    - _FoamScale: {r: 5, g: 5, b: 0, a: 0}
     - _RefractionTile: {r: 10, g: 10, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Tile: {r: 10, g: 10, b: 0, a: 0}
